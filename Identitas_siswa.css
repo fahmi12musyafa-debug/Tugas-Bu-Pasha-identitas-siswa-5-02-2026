@@ -1,0 +1,70 @@
+body {
+    background-color: pink;
+    background-image: url(https://i.natgeofe.com/n/0f550dab-11fc-460e-a39b-030b6e5cbf06/practicalguide.jpg);
+    background-position: top center;
+    margin: 20px;
+    padding: 20px;
+}
+
+#title {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 10px;
+    width: 100%;
+    background-color: rgba(189, 98, 98, 0.976);
+}
+.intro {
+    text-align: center;
+    font-size: 18px;
+    color: #666;
+    background-color: aquamarine;
+    margin: auto;
+    padding: 10px;
+}
+.identity {
+    color: darkblue;
+    list-style-type: none;
+    padding: 1px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    background-color: bisque;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDjWMtyotZJdcRACOSmc9uIKp8WxVfrljnA&s);
+}
+.item {
+    color: darkblue;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin-bottom: 10px;
+    
+}
+.red {
+    color: red;
+    font-size: large;
+    font-style: italic;
+}
+.brown {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+.content {
+    font-size: small;
+    background-color: beige;
+    margin: 10px;
+    border: 10px below solid #ccc;
+    border-bottom: 10px solid #ccc;
+}
+#future {
+    font-size: small;
+    color: burlywood;
+    height: auto;
+}
+.yellow {
+    color: rgb(132, 0, 255);
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-style: italic;
+}
